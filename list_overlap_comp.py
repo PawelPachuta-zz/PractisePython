@@ -18,3 +18,6 @@ def no_duplicate(x, y):
 
 p = no_duplicate(r, t)
 #p = no_duplicate(a, b)
+
+def adding(x):
+    return 5 + x
